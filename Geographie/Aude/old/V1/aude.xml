@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+<filters>
+<filter id="f0" name="Aucune interaction" expandable="false"/>
+<filter id="f1" name="découverte générale" expandable="true"/>
+<filter id="f2" name="villes" expandable="true"/>
+<filter id="f3" name="visites" expandable="true"/>
+<filter id="f4" name="sites historiques" expandable="true"/>
+<filter id="f5" name="découverte sonore" expandable="true"/>
+</filters>
+<pois>
+<poi id="title" name="f1#tts#Carte de l'Aude"/>
+<poi id="Nord" name="f1#tts#Direction du Nord"/>
+<poi id="VersToulouse" name="f1#tts#Vers Toulouse"/>
+<poi id="AutresDepartements" name="f1#tts#Autres Départements"/>
+<poi id="MerMediterranee" name="f1#tts#Mer Méditerranée"/>
+
+<poi id="Carcassonne" name="f2#tts#Carcassonne"/> 
+<poi id="Lezignan-Corbieres" name="f2#tts#Lézignan-Corbières"/>
+<poi id="palaisDesArcheveques" name="f4#tts#Cathédrale Saint Juste et Saint Pasteur, Palais des Archevêques;f5#mp3#abbaye.mp3"/>
+<poi id="Narbonne" name="f2#tts#Narbonne"/>
+<poi id="Lagrasse" name="f2#tts#Lagrasse"/> 
+<poi id="LaBastide" name="f2#tts#LaBastide en val"/> 
+<poi id="Gruissan" name="f2#tts#Gruissan"/> 
+
+<poi id="EtangDeSigean" name="f1#tts#étang de Sigean;f5#mp3#etang.mp3"/> 
+<poi id="Etang2" name="f1#tts#étang de lapalme;f5#mp3#etang.mp3"/> 
+<poi id="Etang3" name="f1#tts#étang de leucate;f5#mp3#etang.mp3"/> 
+
+<poi id="ChateauDeVillerouge-Termenes" name="f4#tts#ChâteauDeVillerouge-Termenès;f5#mp3#combat.mp3"/>
+<poi id="AbbayeSaintHilaire" name="f4#tts#Abbaye de Saint-Hilaire;f5#mp3#gregorien.mp3"/>
+
+<poi id="Oulibo" name="f3#tts#loulibo;f5#mp3#cigales.mp3"/>
+<poi id="TerraVinea" name="f3#tts#musée de la vigne, Terra Vinea;f5#mp3#ventfeuille.mp3"/>
+<poi id="MiellerieDesClauses" name="f3#tts#Miellerie Des Clauses;f5#mp3#abeille.mp3"/>
+<poi id="Homps" name="f3#tts#Croisière sur le canal du midi, au départ de ompsse;f5#mp3#ecluse.mp3"/>
+
+
+</pois>
+</config>

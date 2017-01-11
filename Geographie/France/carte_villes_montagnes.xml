@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+<filters>
+<filter id="f0" name="Aucune interaction" expandable="false"/>
+<filter id="f1" name="villes" expandable="true"/>
+<filter id="f2" name="Localisation des villes" expandable="true"/>
+<filter id="f3" name="Odorat" expandable="true"/>
+<filter id="f4" name="Gout" expandable="true"/>
+<filter id="f5" name="Toucher" expandable="true"/>
+<filter id="f6" name="Vue" expandable="true"/>
+<filter id="f7" name="langues régionales" expandable="true"/>
+<filter id="f8" name="Extraits de langues régionales" expandable="false"/>
+<filter id="f9" name="montagnes" expandable="true"/>
+<filter id="f10" name="montagnes jeunes et anciennes" expandable="true"/>
+<filter id="f11" name="Mers et océans" expandable="true"/>
+</filters>
+<pois>
+
+<poi id="city001" name="f1#tts#Lille
+;f2#tts#Nord
+;f3#tts#chicoré, bière et charbon
+;f4#tts#betterave, hareng, maroilles et tarte-au-sucre
+;f5#tts#pomme de terre et minerai
+;f6#tts#beffroi, ports, Champ de betteraves et de céréales, Cimetière trente neuf quarante cinq
+;f7#tts#picard ou schti et flamand français
+;f8#mp3#ext_picard.mp3"/>
+
+<poi id="city002" name="f1#tts#Strasbourg
+;f2#tts#Nord-est
+;f3#tts#Schnaps et mirabelle
+;f4#tts#biscuits alsaciens de Noël et bretzel
+;f5#tts#
+;f6#tts#cigognes, marché de Noël, Bécassine, drapeau européen, cimetière 14-18
+;f7#tts# alsacien
+;f8#mp3#ext_alsacien.mp3"/>
+
+<poi id="city003" name="f1#tts#Nice
+;f2#tts#Sud-est
+;f3#tts#fleurs, parfums et Herbes de Provence : laurier, romarin et lavande.
+;f4#tts#olives et citron
+;f5#tts#
+;f6#tts#Ville, promenade des Anglais et Carnaval de Nice
+;f7#tts# provençal
+;f8#mp3#ext_provençal.mp3"/>
+
+<poi id="city004" name="f1#tts#Perpignan
+;f2#tts#Sud;f3#tts#Vin de Rivesaltes
+;f4#tts#anchois, crème catalane et zézette de Sète
+;f5#tts#abricot
+;f6#tts#ville et château des rois de Majorque
+;f7#tts#catalan
+;f8#mp3#ext_catalan.mp3"/>
+
+<poi id="city005" name="f1#tts#Bayonne
+;f2#tts#Sud-ouest
+;f3#tts#piment et laine
+;f4#tts#Jambon, fromage de brebis, confiture de cerise et truite fumée.
+;f5#tts#espadrilles, linge basque, pelote basque et béret.
+;f6#tts#porc basque, Biarritz et maisons basques
+;f7#tts#basque
+;f8#mp3#ext_basque.mp3"/>
+
+<poi id="city006" name="f1#tts#Brest
+;f2#tts#Nord-ouest
+;f3#tts#légumes et parfum
+;f4#tts#galette de sarrasin, sardine, far breton et Kouin-Aman
+;f5#tts#bateau, coquillages, algues, sable, granit rose, chapeau et coiffe
+;f6#tts#chapeau et coiffe bretonne, bateau Charles de gaulle et biniou
+;f7#tts#breton
+;f8#mp3#ext_breton.mp3"/>
+
+<poi id="city007" name="f1#tts#Toulouse
+;f2#tts#Sud-ouest
+;f7#tts#occitan
+;f8#mp3#ext_occitan.mp3"/>
+
+<poi id="city008" name="f1#tts#Paris
+;f2#tts#Nord;"/>
+
+<poi id="montain001" name="f9#tts#Les alpes
+;f10#tts#montagne jeune"/>
+
+<poi id="montain002" name="f9#tts#Les vosges
+;f10#tts#montagne ancienne"/>
+
+<poi id="montain003" name="f9#tts#le massif central
+;f10#tts#montagne ancienne"/>
+
+<poi id="montain004" name="f9#tts#Les pyrénnées
+;f10#tts#montagne jeune"/>
+
+<poi id="montain005" name="f9#tts#le jura
+;f10#tts#montagne jeune"/>
+
+
+<poi id="sea001" name="f11#tts#Manche"/>
+
+<poi id="sea002" name="f11#tts#Océan Atlantique"/>
+
+<poi id="sea003" name="f11#tts#Mer Meditéranée"/>
+
+<poi id="title" name="f0#tts#Carte de France"/>
+
+
+</pois>
+</config>
+

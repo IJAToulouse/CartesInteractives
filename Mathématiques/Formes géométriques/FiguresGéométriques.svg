@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1488.189"
+   height="1052.3622"
+   viewBox="0 0 1488.189 1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="FiguresGéométriques.svg">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#lykol"
+       id="pattern6098"
+       patternTransform="translate(-11.428571,-7.1428571)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#lykol"
+       id="pattern6078"
+       patternTransform="translate(0,10)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#lykol"
+       id="pattern6076"
+       patternTransform="translate(0,10)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#lykol"
+       id="pattern6073"
+       patternTransform="translate(168.32843,-10.481842)" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.1811 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1488.189 : 526.1811 : 1"
+       inkscape:persp3d-origin="744.0945 : 350.7874 : 1"
+       id="perspective4268" />
+    <pattern
+       id="lykol"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <circle
+         cx="10"
+         cy="10"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle42" />
+      <circle
+         cx="0"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle44" />
+      <circle
+         cx="0"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle46" />
+      <circle
+         cx="20"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle48" />
+      <circle
+         cx="20"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle50" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="593.89431"
+     inkscape:cy="280.84982"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Interactions">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Titre"
+       width="560"
+       height="114.28571"
+       x="483.14285"
+       y="49.505039"
+       inkscape:label="#rect4183" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Carre"
+       width="218.57143"
+       height="195.71428"
+       x="124.28571"
+       y="199.50504"
+       inkscape:label="#rect4171" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Cercle"
+       width="184.28572"
+       height="158.57143"
+       x="478.57144"
+       y="229.50504"
+       inkscape:label="#rect4173" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Trapeze1"
+       width="214.28572"
+       height="148.57143"
+       x="790"
+       y="219.50504"
+       inkscape:label="#rect4175" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Etoile"
+       width="185.71428"
+       height="151.42857"
+       x="1124.2858"
+       y="243.79076"
+       inkscape:label="#rect4177" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Tore"
+       width="178.57143"
+       height="170"
+       x="322.85715"
+       y="505.21933"
+       inkscape:label="#rect4179" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Lune"
+       width="82.85714"
+       height="230"
+       x="657.14288"
+       y="472.36218"
+       inkscape:label="#rect4181" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Rectangle"
+       width="250"
+       height="164.28572"
+       x="925.71429"
+       y="505.21933"
+       inkscape:label="#rect4183" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Trapeze2"
+       width="220"
+       height="157.14285"
+       x="124.28571"
+       y="780.93359"
+       inkscape:label="#rect4185" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Triangle"
+       width="165.71428"
+       height="154.28572"
+       x="500"
+       y="806.64789"
+       inkscape:label="#rect4187" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Ovale"
+       width="125.71429"
+       height="204.28572"
+       x="842.85712"
+       y="745.2193"
+       inkscape:label="#rect4189" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Losange"
+       width="192.85715"
+       height="210"
+       x="1142.8572"
+       y="742.36218"
+       inkscape:label="#rect4191" />
+  </g>
+  <g
+     inkscape:label="Texte"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1.2226562e-5)"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="514.39172"
+       y="135.59042"
+       id="text4728"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4730"
+         x="514.39172"
+         y="135.59042"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ff0000">Les figures géométriques</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Braille_2007;-inkscape-font-specification:Braille_2007;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="547.78772"
+       y="82.900017"
+       id="text4724"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4726"
+         x="547.78772"
+         y="82.900017"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Braille_2007;-inkscape-font-specification:Braille_2007;text-align:start;writing-mode:lr-tb;text-anchor:start">Les figures géométriques</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Formes"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:url(#lykol);fill-opacity:1;stroke:#000000;stroke-width:2.72235417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4200"
+       width="221.39503"
+       height="200.65331"
+       x="123.8942"
+       y="197.03915" />
+    <ellipse
+       style="fill:url(#lykol);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4204"
+       cx="569.10486"
+       cy="304.21939"
+       rx="109.36159"
+       ry="113.64731" />
+    <ellipse
+       style="fill:url(#lykol);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4218"
+       cx="907.42761"
+       cy="842.25134"
+       rx="73.504341"
+       ry="117.07577" />
+    <rect
+       style="fill:url(#pattern6078);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4222"
+       width="251.49959"
+       height="162.22255"
+       x="928.03662"
+       y="507.27191" />
+    <path
+       style="fill:url(#pattern6076);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 770.54844,459.43729 a 124.23182,120.74182 0 0 0 -124.2316,120.74302 124.23182,120.74182 0 0 0 124.2316,120.74095 124.23182,120.74182 0 0 0 36.6196,-5.49266 124.23182,120.74182 0 0 1 -82.9571,-113.73143 124.23182,120.74182 0 0 1 87.6141,-115.24829 124.23182,120.74182 0 0 0 -41.2766,-7.01159 z"
+       id="path4204-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:url(#pattern6073);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 407.73438,470.63477 A 109.36159,113.64731 0 0 0 298.37305,584.28125 109.36159,113.64731 0 0 0 407.73438,697.92773 109.36159,113.64731 0 0 0 517.0957,584.28125 109.36159,113.64731 0 0 0 407.73438,470.63477 Z m -2.02735,80.40625 a 33.349938,32.092289 75.469931 0 1 33.09375,25.18945 33.349938,32.092289 75.469931 0 1 -22.69922,40.33398 33.349938,32.092289 75.469931 0 1 -39.43359,-24.23242 33.349938,32.092289 75.469931 0 1 22.69922,-40.33398 33.349938,32.092289 75.469931 0 1 6.33984,-0.95703 z"
+       id="path4204-20"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:url(#lykol);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123.45801,779.12194 0,160.88661 244.41217,0 -64.1071,-160.88661 z"
+       id="rect4200-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:url(#lykol);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 776.82276,219.88297 253.55164,0 -42.42644,148.11208 -171.7293,0 z"
+       id="rect4222-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:url(#lykol);fill-opacity:1;stroke:#000000;stroke-width:2.21458697;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4200-8"
+       width="174.06938"
+       height="168.8846"
+       x="321.79898"
+       y="1452.8124"
+       transform="matrix(0.60662052,-0.79499153,0.64408609,0.76495301,0,0)" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#lykol);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path6080"
+       sodipodi:sides="3"
+       sodipodi:cx="585.71429"
+       sodipodi:cy="860.93365"
+       sodipodi:r1="137.75163"
+       sodipodi:r2="68.875816"
+       sodipodi:arg1="0.85879549"
+       sodipodi:arg2="1.905993"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 675.7143,965.21937 450.40021,886.73309 631.02837,730.8485 Z"
+       inkscape:transform-center-x="-0.054066389"
+       inkscape:transform-center-y="-34.391074"
+       transform="matrix(0.9440871,-0.32969614,0.32969614,0.9440871,-251.09752,261.24504)" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#pattern6098);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path6096"
+       sodipodi:sides="5"
+       sodipodi:cx="1217.1428"
+       sodipodi:cy="319.50504"
+       sodipodi:r1="129.4415"
+       sodipodi:r2="64.720749"
+       sodipodi:arg1="0.83223888"
+       sodipodi:arg2="1.4605574"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1304.2857,415.21932 -80.0226,-31.3864 -71.2213,48.12724 5.1219,-85.8049 -67.7804,-52.86342 83.1881,-21.64395 29.3308,-80.79862 46.2912,72.4282 85.9077,2.92713 -54.5785,66.40703 z"
+       inkscape:transform-center-x="4.4005896"
+       inkscape:transform-center-y="-8.1003237" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Contour"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <g
+       transform="matrix(1.0027559,0,0,1.0027559,4.47696,-2.3903593)"
+       style="display:inline"
+       id="frame-layer">
+      <path
+         d="m 40,40 1404.0989,0 0,969.47 L 40,1009.47 40,40 Z"
+         id="svgContainer"
+         class="notDeletable"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:2.5px;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+<filters>
+<filter id="f0" name="Aucune interaction" expandable="false"/>
+<filter id="f1" name="villes" expandable="true"/>
+<filter id="f2" name="visites" expandable="true"/>
+</filters>
+<pois>
+<poi id="title" name="f0#tts#Carte de l'Aude"/>
+<poi id="Nord" name="f0#tts#Direction du Nord"/>
+<poi id="VersToulouse" name="f0#tts#Vers Toulouse"/>
+
+<poi id="Carcassonne" name="f1#tts#Carcassonne"/> 
+<poi id="Lezignan-Corbieres" name="f1#tts#Lézignan-Corbières"/> 
+<poi id="Narbonne" name="f1#tts#Narbonne
+;f2#tts#Abbaye de Narbonne"/> 
+<poi id="Lagrasse" name="f1#tts#Lagrasse"/> 
+<poi id="LaBastide" name="f1#tts#LaBastide"/> 
+
+<poi id="Marais" name="f2#tts#Marais"/> 
+<poi id="Marais2" name="f2#tts#Marais"/> 
+<poi id="Marais3" name="f2#tts#Marais"/> 
+
+<poi id="ChateauDeVillerouge-Termenes" name="f2#tts#ChâteauDeVillerouge-Termenès"/>
+<poi id="AbbayeSaintHilaire" name="f2#tts#Abbaye de Saint-Hilaire"/>
+<poi id="Oulibo" name="f2#tts#L'Oulibo"/>
+<poi id="CaveCooperativeDeQuarante" name="f2#tts#Cave Coopérative De Quarante"/>
+<poi id="MiellerieDesClauses" name="f2#tts#Miellerie Des Clauses"/>
+
+
+</pois>
+</config>
+

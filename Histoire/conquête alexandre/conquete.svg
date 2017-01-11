@@ -1,0 +1,3919 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420"
+   height="297"
+   viewBox="0 0 1484.0989399293287 1049.469964664311"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="conquete.svg"
+   inkscape:export-filename="C:\Users\accessimap\Desktop\carteAlexandre (1)\conquete.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <metadata
+     id="metadata811">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview809"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="2.4632071"
+     inkscape:cx="203.06194"
+     inkscape:cy="157.20004"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#poffk"
+       id="pattern5763" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#wcfsg"
+       id="pattern5759"
+       patternTransform="scale(1.0027559,1.0027559)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#wcfsg"
+       id="pattern5755" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#wcfsg"
+       id="pattern5751" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#wcfsg"
+       id="pattern5747" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#wcfsg"
+       id="pattern5743" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#kwdgy"
+       id="pattern5740" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#kwdgy"
+       id="pattern5737" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#kwdgy"
+       id="pattern5734" />
+    <pattern
+       id="rzpmu"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <path
+         d="M 10, 0 l 0, 20"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path7" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs9">
+    <pattern
+       id="aumfy"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path12" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs14">
+    <pattern
+       id="cbzch"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path17" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs19">
+    <pattern
+       id="gdtkr"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <path
+         d="M 5, 0 l 0, 10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path22" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs24">
+    <pattern
+       id="nlduz"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <path
+         d="M 0,0 l 10,10 M -2.5,7.5 l 5,5 M 7.5,-2.5 l 5,5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path27" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs29">
+    <pattern
+       id="poffk"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <path
+         d="M 0,10 l 10,-10 M -2.5,2.5 l 5,-5 M 7.5,12.5 l 5,-5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path32" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs34">
+    <pattern
+       id="abwuu"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <path
+         d="M 0 10 c 2.5 -5 , 7.5 -5 , 10 0 c 2.5 5 , 7.5 5 , 10 0 M -10 10 c 2.5 5 , 7.5 5 , 10 0 M 20 10 c 2.5 -5 , 7.5 -5 , 10 0"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path37" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs39">
+    <pattern
+       id="ketxu"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <circle
+         cx="10"
+         cy="10"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle42" />
+      <circle
+         cx="0"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle44" />
+      <circle
+         cx="0"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle46" />
+      <circle
+         cx="20"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle48" />
+      <circle
+         cx="20"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle50" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs52">
+    <pattern
+       id="mnrnp"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="white"
+         id="rect55" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle57" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle59" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle61" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle63" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle65" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs67">
+    <pattern
+       id="kwdgy"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle70" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle72" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle74" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle76" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle78" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs80">
+    <pattern
+       id="trfod"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle83" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle85" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle87" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle89" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle91" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs93">
+    <pattern
+       id="jxdna"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <circle
+         cx="10"
+         cy="10"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle96" />
+      <circle
+         cx="0"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle98" />
+      <circle
+         cx="0"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle100" />
+      <circle
+         cx="20"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle102" />
+      <circle
+         cx="20"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle104" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs106">
+    <pattern
+       id="jrdhe"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path109" />
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path111" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs113">
+    <pattern
+       id="jiniw"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <path
+         d="M 5,15l5,-10l5,10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path116" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs118">
+    <pattern
+       id="wcfsg"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <path
+         d="M 5,5l10,10M15,5l10,-10 M5,15l-10,10M15,25l10,-10 M-5,5l10,-10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path121" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs123">
+    <pattern
+       id="dxmoa"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="0"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path126" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs128">
+    <pattern
+       id="kyxdk"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect131" />
+      <path
+         d="M 10, 0 l 0, 20"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path133" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs135">
+    <pattern
+       id="egxyl"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect138" />
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path140" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs142">
+    <pattern
+       id="yoakv"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect145" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path147" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs149">
+    <pattern
+       id="ljfrh"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="white"
+         id="rect152" />
+      <path
+         d="M 5, 0 l 0, 10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path154" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs156">
+    <pattern
+       id="pwzji"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="white"
+         id="rect159" />
+      <path
+         d="M 0,0 l 10,10 M -2.5,7.5 l 5,5 M 7.5,-2.5 l 5,5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path161" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs163">
+    <pattern
+       id="egsnz"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="white"
+         id="rect166" />
+      <path
+         d="M 0,10 l 10,-10 M -2.5,2.5 l 5,-5 M 7.5,12.5 l 5,-5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path168" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs170">
+    <pattern
+       id="jctjj"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect173" />
+      <path
+         d="M 0 10 c 2.5 -5 , 7.5 -5 , 10 0 c 2.5 5 , 7.5 5 , 10 0 M -10 10 c 2.5 5 , 7.5 5 , 10 0 M 20 10 c 2.5 -5 , 7.5 -5 , 10 0"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path175" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs177">
+    <pattern
+       id="ovpqk"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect180" />
+      <circle
+         cx="10"
+         cy="10"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle182" />
+      <circle
+         cx="0"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle184" />
+      <circle
+         cx="0"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle186" />
+      <circle
+         cx="20"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle188" />
+      <circle
+         cx="20"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle190" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs192">
+    <pattern
+       id="yvlsj"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="white"
+         id="rect195" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle197" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle199" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle201" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle203" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle205" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs207">
+    <pattern
+       id="ltpaf"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="white"
+         id="rect210" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle212" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle214" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle216" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle218" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle220" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs222">
+    <pattern
+       id="lpgjd"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="white"
+         id="rect225" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle227" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle229" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle231" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle233" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle235" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs237">
+    <pattern
+       id="jhyxu"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect240" />
+      <circle
+         cx="10"
+         cy="10"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle242" />
+      <circle
+         cx="0"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle244" />
+      <circle
+         cx="0"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle246" />
+      <circle
+         cx="20"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle248" />
+      <circle
+         cx="20"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle250" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs252">
+    <pattern
+       id="dtboa"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect255" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path257" />
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path259" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs261">
+    <pattern
+       id="cumol"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect264" />
+      <path
+         d="M 5,15l5,-10l5,10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path266" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs268">
+    <pattern
+       id="yddrv"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect271" />
+      <path
+         d="M 5,5l10,10M15,5l10,-10 M5,15l-10,10M15,25l10,-10 M-5,5l10,-10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path273" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs275">
+    <pattern
+       id="ykeap"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         id="rect278" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="0"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path280" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs282">
+    <pattern
+       id="wcwqh"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect285" />
+      <path
+         d="M 10, 0 l 0, 20"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path287" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs289">
+    <pattern
+       id="lhhjq"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect292" />
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path294" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs296">
+    <pattern
+       id="iyyoa"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect299" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path301" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs303">
+    <pattern
+       id="otple"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="blue"
+         id="rect306" />
+      <path
+         d="M 5, 0 l 0, 10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path308" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs310">
+    <pattern
+       id="dbudb"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="blue"
+         id="rect313" />
+      <path
+         d="M 0,0 l 10,10 M -2.5,7.5 l 5,5 M 7.5,-2.5 l 5,5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path315" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs317">
+    <pattern
+       id="lvncr"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="blue"
+         id="rect320" />
+      <path
+         d="M 0,10 l 10,-10 M -2.5,2.5 l 5,-5 M 7.5,12.5 l 5,-5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path322" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs324">
+    <pattern
+       id="iniwt"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect327" />
+      <path
+         d="M 0 10 c 2.5 -5 , 7.5 -5 , 10 0 c 2.5 5 , 7.5 5 , 10 0 M -10 10 c 2.5 5 , 7.5 5 , 10 0 M 20 10 c 2.5 -5 , 7.5 -5 , 10 0"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path329" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs331">
+    <pattern
+       id="oarbw"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect334" />
+      <circle
+         cx="10"
+         cy="10"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle336" />
+      <circle
+         cx="0"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle338" />
+      <circle
+         cx="0"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle340" />
+      <circle
+         cx="20"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle342" />
+      <circle
+         cx="20"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle344" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs346">
+    <pattern
+       id="qhnor"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="blue"
+         id="rect349" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle351" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle353" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle355" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle357" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle359" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs361">
+    <pattern
+       id="zvqaz"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="blue"
+         id="rect364" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle366" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle368" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle370" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle372" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle374" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs376">
+    <pattern
+       id="iiknh"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="blue"
+         id="rect379" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle381" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle383" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle385" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle387" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle389" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs391">
+    <pattern
+       id="osjoe"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect394" />
+      <circle
+         cx="10"
+         cy="10"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle396" />
+      <circle
+         cx="0"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle398" />
+      <circle
+         cx="0"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle400" />
+      <circle
+         cx="20"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle402" />
+      <circle
+         cx="20"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle404" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs406">
+    <pattern
+       id="xdmkp"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect409" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path411" />
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path413" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs415">
+    <pattern
+       id="hlwrg"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect418" />
+      <path
+         d="M 5,15l5,-10l5,10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path420" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs422">
+    <pattern
+       id="tpjzj"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect425" />
+      <path
+         d="M 5,5l10,10M15,5l10,-10 M5,15l-10,10M15,25l10,-10 M-5,5l10,-10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path427" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs429">
+    <pattern
+       id="vxdtm"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="blue"
+         id="rect432" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="0"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path434" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs436">
+    <pattern
+       id="kokuj"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect439" />
+      <path
+         d="M 10, 0 l 0, 20"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path441" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs443">
+    <pattern
+       id="qlgtb"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect446" />
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path448" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs450">
+    <pattern
+       id="weqrw"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect453" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path455" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs457">
+    <pattern
+       id="asweb"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="red"
+         id="rect460" />
+      <path
+         d="M 5, 0 l 0, 10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path462" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs464">
+    <pattern
+       id="akvvy"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="red"
+         id="rect467" />
+      <path
+         d="M 0,0 l 10,10 M -2.5,7.5 l 5,5 M 7.5,-2.5 l 5,5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path469" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs471">
+    <pattern
+       id="ftaqs"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="red"
+         id="rect474" />
+      <path
+         d="M 0,10 l 10,-10 M -2.5,2.5 l 5,-5 M 7.5,12.5 l 5,-5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path476" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs478">
+    <pattern
+       id="psagb"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect481" />
+      <path
+         d="M 0 10 c 2.5 -5 , 7.5 -5 , 10 0 c 2.5 5 , 7.5 5 , 10 0 M -10 10 c 2.5 5 , 7.5 5 , 10 0 M 20 10 c 2.5 -5 , 7.5 -5 , 10 0"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path483" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs485">
+    <pattern
+       id="rloxu"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect488" />
+      <circle
+         cx="10"
+         cy="10"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle490" />
+      <circle
+         cx="0"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle492" />
+      <circle
+         cx="0"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle494" />
+      <circle
+         cx="20"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle496" />
+      <circle
+         cx="20"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle498" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs500">
+    <pattern
+       id="tgcez"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="red"
+         id="rect503" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle505" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle507" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle509" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle511" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle513" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs515">
+    <pattern
+       id="ihsxe"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="red"
+         id="rect518" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle520" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle522" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle524" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle526" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle528" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs530">
+    <pattern
+       id="xhnyi"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="red"
+         id="rect533" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle535" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle537" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle539" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle541" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle543" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs545">
+    <pattern
+       id="hjsqf"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect548" />
+      <circle
+         cx="10"
+         cy="10"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle550" />
+      <circle
+         cx="0"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle552" />
+      <circle
+         cx="0"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle554" />
+      <circle
+         cx="20"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle556" />
+      <circle
+         cx="20"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle558" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs560">
+    <pattern
+       id="lcqmh"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect563" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path565" />
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path567" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs569">
+    <pattern
+       id="zvluv"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect572" />
+      <path
+         d="M 5,15l5,-10l5,10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path574" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs576">
+    <pattern
+       id="wpqsq"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect579" />
+      <path
+         d="M 5,5l10,10M15,5l10,-10 M5,15l-10,10M15,25l10,-10 M-5,5l10,-10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path581" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs583">
+    <pattern
+       id="lncnp"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="red"
+         id="rect586" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="0"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path588" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs590">
+    <pattern
+       id="xcumx"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect593" />
+      <path
+         d="M 10, 0 l 0, 20"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path595" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs597">
+    <pattern
+       id="chdvy"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect600" />
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path602" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs604">
+    <pattern
+       id="ktpmx"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect607" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path609" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs611">
+    <pattern
+       id="ciflv"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="yellow"
+         id="rect614" />
+      <path
+         d="M 5, 0 l 0, 10"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path616" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs618">
+    <pattern
+       id="jdtgv"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="yellow"
+         id="rect621" />
+      <path
+         d="M 0,0 l 10,10 M -2.5,7.5 l 5,5 M 7.5,-2.5 l 5,5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path623" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs625">
+    <pattern
+       id="bkktb"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="yellow"
+         id="rect628" />
+      <path
+         d="M 0,10 l 10,-10 M -2.5,2.5 l 5,-5 M 7.5,12.5 l 5,-5"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path630" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs632">
+    <pattern
+       id="orizt"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect635" />
+      <path
+         d="M 0 10 c 2.5 -5 , 7.5 -5 , 10 0 c 2.5 5 , 7.5 5 , 10 0 M -10 10 c 2.5 5 , 7.5 5 , 10 0 M 20 10 c 2.5 -5 , 7.5 -5 , 10 0"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path637" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs639">
+    <pattern
+       id="tjlaa"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect642" />
+      <circle
+         cx="10"
+         cy="10"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle644" />
+      <circle
+         cx="0"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle646" />
+      <circle
+         cx="0"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle648" />
+      <circle
+         cx="20"
+         cy="0"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle650" />
+      <circle
+         cx="20"
+         cy="20"
+         r="2"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle652" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs654">
+    <pattern
+       id="rvkhp"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="yellow"
+         id="rect657" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle659" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle661" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle663" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle665" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle667" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs669">
+    <pattern
+       id="fumoh"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="yellow"
+         id="rect672" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle674" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle676" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle678" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle680" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.1"
+         id="circle682" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs684">
+    <pattern
+       id="mashc"
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10">
+      <rect
+         width="10"
+         height="10"
+         fill="yellow"
+         id="rect687" />
+      <circle
+         cx="5"
+         cy="5"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle689" />
+      <circle
+         cx="0"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle691" />
+      <circle
+         cx="0"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle693" />
+      <circle
+         cx="10"
+         cy="0"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle695" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#343434"
+         stroke="#343434"
+         stroke-width="1.3"
+         id="circle697" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs699">
+    <pattern
+       id="mscyv"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect702" />
+      <circle
+         cx="10"
+         cy="10"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle704" />
+      <circle
+         cx="0"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle706" />
+      <circle
+         cx="0"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle708" />
+      <circle
+         cx="20"
+         cy="0"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle710" />
+      <circle
+         cx="20"
+         cy="20"
+         r="4"
+         fill="grey"
+         stroke="#343434"
+         stroke-width="0"
+         id="circle712" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs714">
+    <pattern
+       id="knfqe"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect717" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path719" />
+      <path
+         d="M 0,0 l 20,20 M -5,15 l 10,10 M 15,-5 l 10,10"
+         stroke-width="1"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path721" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs723">
+    <pattern
+       id="ffisr"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect726" />
+      <path
+         d="M 5,15l5,-10l5,10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path728" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs730">
+    <pattern
+       id="awrwi"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect733" />
+      <path
+         d="M 5,5l10,10M15,5l10,-10 M5,15l-10,10M15,25l10,-10 M-5,5l10,-10"
+         fill="transparent"
+         stroke-width="2"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path735" />
+    </pattern>
+  </defs>
+  <defs
+     id="defs737">
+    <pattern
+       id="vnipz"
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20">
+      <rect
+         width="20"
+         height="20"
+         fill="yellow"
+         id="rect740" />
+      <path
+         d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10"
+         stroke-width="0"
+         shape-rendering="auto"
+         stroke="#343434"
+         stroke-linecap="square"
+         id="path742" />
+    </pattern>
+  </defs>
+  <g
+     id="g7131"
+     transform="translate(2.4239606,72.680297)">
+    <path
+       class="link_1"
+       d="m 75.729324,271.12793 219.708546,-83.20876 -28.9827,90.68819 12.15396,36.46228 -51.42116,18.69861 -86.01355,-22.43832 11.21917,35.52734 -31.78747,18.6987 -26.178195,-57.96576 z"
+       e-style="smallhash45"
+       e-color="none"
+       data-link="1"
+       id="path754"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pattern5763)" />
+    <path
+       id="path756"
+       transform="scale(0.99725169,0.99725169)"
+       d="M 498.75391,162.1875 396.56445,187.5 l 36.56446,33.75 -41.25196,13.125 -40.3125,-69.375 -52.5,59.0625 -6.5625,3.75 -27.1875,60.9375 15.72461,8.14258 -8.52734,25.13867 -47.86719,11.84766 -0.0371,0.43359 -82.10547,-23.0625 -6.5625,52.5 46.875,15 -45.9375,15.93945 20.625,34.6875 -34.6875,-19.6875 -6.56445,38.4375 -32.8125,-98.43945 -37.5,-137.8125 -4.6875,300.00195 199.68945,89.0625 130.3125,11.25 59.06446,-145.3125 -215.62696,-26.25 9.01172,-84.86523 28.90625,-11.92969 36.49219,-5.21484 18.95312,-27.73438 9.76172,5.05469 60.9375,-14.0625 150.00196,32.8125 15,-47.8125 -81.5625,-66.5625 36.5625,-58.125 z"
+       style="fill:none;stroke:#ffffff;stroke-width:20.05511856"
+       inkscape:connector-curvature="0" />
+    <path
+       class="link_3 c3 notDeletable"
+       d="m 776.92676,137.43295 35.52734,61.70539 -83.20874,22.4383 107.51691,172.02712 -0.93494,39.26706 -105.64703,13.08902 -15.8938,-61.70538 14.95886,-41.13691 -77.59918,-111.25666 20.56842,-57.96566 -1.86981,2.80478 z"
+       e-style="waves"
+       e-color="none"
+       data-link="3"
+       id="path760"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:20" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       class="link_3"
+       d="m 776.92676,137.43295 35.52734,61.70539 -83.20874,22.4383 107.51691,172.02712 -0.93494,39.26706 -105.64703,13.08902 -15.8938,-61.70538 14.95886,-41.13691 -77.59918,-111.25666 20.56842,-57.96566 z"
+       e-style="woven"
+       e-color="none"
+       data-link="3"
+       id="path762"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pattern5755);stroke:#000000;stroke-width:2" />
+    <path
+       class="link_4 c4 notDeletable"
+       d="m 922.77582,127.14873 -32.72254,29.91775 -13.08899,26.17804 25.24311,67.31496 51.42114,-61.70537 -1.86987,0 z"
+       e-style="waves"
+       e-color="none"
+       data-link="4"
+       id="path764"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:20" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       class="link_4"
+       d="m 922.77582,127.14873 -32.72254,29.91775 -13.08899,26.17804 25.24311,67.31496 51.42114,-61.70537 c -5.37339,-10.34306 -24.39016,-47.94639 -30.85272,-61.70538 z"
+       e-style="woven"
+       e-color="none"
+       data-link="4"
+       id="path766"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pattern5751);stroke:#000000;stroke-width:2" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       class="link_7 c7 notDeletable"
+       d="m 441.28693,934.92816 -118.73609,-275.80432 48.61634,52.35608 20.56848,-43.94171 120.51313,260.24995 5.40315,11.6682 z"
+       e-style="waves"
+       e-color="none"
+       data-link="7"
+       id="path768"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:20" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       class="link_7"
+       d="m 441.28693,934.92816 -118.73609,-275.80432 48.61634,52.35608 20.56848,-43.94171 121.50986,267.83161 z"
+       e-style="woven"
+       e-color="none"
+       data-link="7"
+       id="path770"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pattern5747);stroke:#000000;stroke-width:2" />
+    <path
+       class="link_8 c8 notDeletable"
+       d="m 1356.5834,939.60284 -122.4759,-172.0271 2.8049,-58.90057 -355.27348,14.95886 -143.04425,-87.88342 -26.17804,17.76367 79.46905,122.47583 93.49298,5.60956 31.7876,-34.59241 116.86624,68.24988 -42.07187,119.67102 0,0 z"
+       e-style="woven"
+       e-color="none"
+       data-link="8"
+       id="path772"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:20" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       class="link_8"
+       d="m 1356.5834,934.87164 -122.4759,-167.2959 2.8049,-58.90057 -355.27348,14.95886 -143.04425,-87.88342 -26.17804,17.76367 79.46905,122.47583 93.49298,5.60956 31.7876,-34.59241 116.86624,68.24988 -42.07187,119.67102 0,0 z"
+       e-style="woven"
+       e-color="none"
+       data-link="8"
+       id="path774"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pattern5743);stroke:#000000;stroke-width:2" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc"
+       class="link_75"
+       d="m 405.75955,315.06961 4.67465,58.90064 64.51017,21.50335 179.50656,-25.2431 67.31494,84.14371 120.60596,-6.5445 7.47943,-39.26706 259.91054,-188.85589 234.1318,207.77686 -86.0542,131.03743 -45.9742,64.68126 9.1532,77.99337 -335.63974,8.41437 -139.30456,-83.20874 -57.03077,23.37323 -194.46539,-120.60596 -108.07656,88.07167 -5.39384,22.19791 -66.03616,15.01106 37.57417,156.04244 -99.49722,2.13767 -137.26715,-158.87854 83.02254,-53.69025 9.62362,-0.63091 c 117.64348,25.45311 81.77186,15.11471 139.04648,18.75302 l 27.65417,3.86797 23.18367,-52.12373 -2.26171,16.5888 44.84214,-129.16135 z"
+       e-style="smalldotsthicker"
+       e-color="none"
+       data-link="75"
+       id="path776"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pattern5740)" />
+    <path
+       class=""
+       d="M 131.8251,637.62048 Z"
+       id="path778"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pattern5737)" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       class="link_78"
+       d="m 252.06178,353.5154 42.9241,-7.42776 14.02381,-20.42776 66.83214,-14.32995 39.26706,8.41436 20.74898,133.12679 -175.20644,-18.84663 -29.71346,-33.39321 2.39414,-36.40296 z"
+       e-style="smalldotsthicker"
+       e-color="none"
+       data-link="78"
+       id="path780"
+       inkscape:connector-curvature="0"
+       style="fill:url(#pattern5734)" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path758"
+       transform="scale(0.99725169,0.99725169)"
+       d="M 498.75391,162.1875 396.56445,187.5 l 36.56446,33.75 -41.25196,13.125 -40.3125,-69.375 -52.5,59.0625 -6.5625,3.75 -27.1875,60.9375 17.21485,8.91406 -9.66211,26.75586 -23.76563,4.40235 -24.88867,5.38085 -81.71094,-22.95312 -6.5625,52.5 46.875,15 -45.9375,15.93945 20.625,34.6875 -34.6875,-19.6875 L 116.25,448.12695 83.4375,349.6875 41.30787,206.31944 41.25,511.87695 l 199.68945,89.0625 130.3125,11.25 59.06446,-145.3125 -215.62696,-26.25 8.85157,-83.3457 29.96289,-12.61523 36.96875,-5.28125 9.68164,-21.125 9.04492,-6.78321 8.61523,4.46094 60.9375,-14.0625 150.00196,32.8125 15,-47.8125 -81.5625,-66.5625 z"
+       style="fill:url(#pattern5759);stroke:#000000;stroke-width:2.00551176" />
+    <path
+       class="link_97"
+       d="m 83.492996,581.8089 0,20 20.000004,0 0,-20 z"
+       data-link="97"
+       id="path790"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:3" />
+    <path
+       class="link_98"
+       d="m 556.5675,710.82922 0,20 20,0 0,-20 z"
+       data-link="98"
+       id="path792"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:3" />
+    <path
+       class="link_99"
+       d="m 1319.4703,592.09314 0,20 20,0 0,-20 z"
+       data-link="99"
+       id="path794"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:3" />
+    <path
+       class="link_100 c100 notDeletable"
+       d="m 102.19159,338.72711 0,20 20,0 0,-20 z"
+       data-link="100"
+       id="path796"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:20" />
+    <path
+       class="link_100"
+       d="m 102.19159,338.72711 0,20 20,0 0,-20 z"
+       data-link="100"
+       id="path798"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:3" />
+    <g
+       id="g6599">
+      <g
+         id="g6620" />
+    </g>
+    <g
+       transform="translate(17.393925,-13.335342)"
+       id="g6642">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path800"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101 c101 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3"
+         inkscape:connector-curvature="0"
+         id="path802"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5765-9"
+       d="m 129.78584,282.43521 115.96801,16.7842 -0.59843,116.56965 55.38505,23.26172 7.75391,-54.27735 70.89285,-6.6462 15.50782,67.56974 54.27734,-3.32309 -40.98494,152.86272 -32.12333,31.01562 -73.10825,14.40012 -158.40123,12.18471 54.27734,-43.20033 80.86217,5.5385 9.1044,28.36776"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:11.96702003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5765"
+       d="m 128.23867,281.74413 118.26935,17.55132 -0.59843,116.56964 55.38505,23.26172 7.7539,-54.27734 70.89286,-6.6462 15.50781,67.56974 54.27735,-3.3231 -23.8975,95.52445 -17.08744,57.33827 -32.12333,31.01562 -73.10825,14.40012 -158.40122,12.18471 54.27733,-43.20034 80.86217,5.53851 8.33432,27.21265"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.98900676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.9560271, 3.98900677;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g6642-3"
+       transform="translate(576.13458,313.67917)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path800-32"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101 c101 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3"
+         inkscape:connector-curvature="0"
+         id="path802-0"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path6519-0"
+       d="m 428.94224,533.15965 15.31463,-0.34705 27.76955,-75.83612 142.08631,7.94271 12.35533,118.25816 84.72227,-6.17766 98.65353,75.49325 58.75307,-45.64597 78.65675,65.32514 94.88312,27.49836 116.493,-18.533 38.8311,-3.53009 -9.7077,-73.24946 37.9485,-50.30385 14.1204,-95.31255 54.7164,15.88542 0.8826,-22.06308 -76.7796,-33.53591 -75.0145,18.533 -14.1204,-66.18927 -58.2466,14.12037 -10.5902,-89.13488 52.0688,-35.30095"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:11.96702003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path6519"
+       d="m 426.64806,533.34718 18.32645,-0.66269 25.85379,-76.27037 142.52562,7.94271 12.35533,118.25816 84.72226,-6.17766 99.42361,76.07081 61.01934,-43.87598 76.55383,63.79239 93.94961,26.68356 116.493,-18.533 38.8311,-3.53009 -9.7077,-73.24946 37.9485,-50.30385 14.1204,-95.31255 54.7164,15.88542 0.8826,-22.06308 -76.7796,-33.5359 -75.0145,18.53299 -14.1204,-66.18927 -58.2466,14.12038 -10.5902,-89.13489 52.0688,-35.30094"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.98900676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.9560271, 3.98900677;stroke-dashoffset:0.79780138;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path6536-1"
+       d="m 866.38418,605.39549 -149.51202,-99.66721 134.87456,-63.56156 44.95818,-43.4079 130.2237,23.25423 10.852,155.02822 66.6621,-51.15931 38.3791,-86.20419"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:11.96702003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path6536"
+       d="m 867.68512,606.73564 -149.90447,-101.4147 134.87455,-63.56157 44.95818,-43.4079 130.22372,23.25423 10.852,155.02822 66.6621,-51.15931 37.8346,-88.65456"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.98900676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.9560271, 3.98900677;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6553-8"
+       d="m 1070.2546,345.73176 66.2989,-36.93972"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:11.96702003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6553"
+       d="m 1067.3048,347.99463 67.069,-38.67239"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.98900676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.9560271, 3.98900677;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g6642-1"
+       transform="translate(47.160171,422.08974)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path800-7"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101 c101 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3"
+         inkscape:connector-curvature="0"
+         id="path802-7"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101" />
+    </g>
+    <g
+       id="g6642-10"
+       transform="translate(432.49559,119.68741)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path800-71"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101 c101 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3"
+         inkscape:connector-curvature="0"
+         id="path802-1"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101" />
+    </g>
+    <g
+       id="g6642-7"
+       transform="translate(483.05705,181.84109)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path800-0"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101 c101 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3"
+         inkscape:connector-curvature="0"
+         id="path802-3"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101" />
+    </g>
+    <g
+       id="g6642-77"
+       transform="translate(379.90388,261.28048)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path800-3"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101 c101 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3"
+         inkscape:connector-curvature="0"
+         id="path802-5"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101" />
+    </g>
+    <g
+       id="g6642-5"
+       transform="translate(685.34035,202.62049)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path800-5"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101 c101 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3"
+         inkscape:connector-curvature="0"
+         id="path802-2"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101" />
+    </g>
+    <g
+       id="g6642-52"
+       transform="translate(955.85423,76.104594)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path800-8"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101 c101 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3"
+         inkscape:connector-curvature="0"
+         id="path802-8"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101" />
+    </g>
+    <g
+       id="g6642-8"
+       transform="translate(138.36724,138.23106)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path800-323"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101 c101 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3"
+         inkscape:connector-curvature="0"
+         id="path802-6"
+         data-link="101"
+         d="m 195.68459,270.47723 0,20 20,0 0,-20 z"
+         class="link_101" />
+    </g>
+    <g
+       id="g4925"
+       transform="translate(-275.93268,459.57636)">
+      <path
+         class="link_11 c11 notDeletable"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path852"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:20" />
+      <path
+         class="link_11"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path854"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4925-2"
+       transform="translate(-452.59113,264.04211)">
+      <path
+         class="link_11 c11 notDeletable"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path852-4"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:20" />
+      <path
+         class="link_11"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path854-6"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4925-7"
+       transform="translate(-257.79385,325.49094)">
+      <path
+         class="link_11 c11 notDeletable"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path852-3"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:20" />
+      <path
+         class="link_11"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path854-9"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4925-29"
+       transform="translate(-91.966802,351.2127)">
+      <path
+         class="link_11 c11 notDeletable"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path852-34"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:20" />
+      <path
+         class="link_11"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path854-0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4925-9"
+       transform="translate(519.9208,308.12677)">
+      <path
+         class="link_11 c11 notDeletable"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path852-8"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-width:20" />
+      <path
+         class="link_11"
+         d="m 687.3926,121.54209 11,-19.05256 11,19.05256 z"
+         data-link="11"
+         id="path854-01"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4955"
+       transform="translate(-44.361728,294.58289)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g4955-0"
+       transform="translate(89.209008,505.65048)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-7"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-7"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g4955-6"
+       transform="translate(336.75011,457.9394)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-71"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-1"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g4955-4"
+       transform="translate(-164.0483,166.29054)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-1"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-74"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g4955-3"
+       transform="translate(432.0466,459.52768)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-70"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-0"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g4955-8"
+       transform="translate(850.81187,327.44613)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-16"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-75"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g4955-88"
+       transform="translate(775.11392,178.40307)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-718"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-753"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g4955-74"
+       transform="translate(780.67288,273.69954)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-0"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-4"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g5558"
+       transform="translate(1053.8899,586.91363)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-3"
+       transform="translate(605.16016,533.90779)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-8"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-3"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-1"
+       transform="translate(908.28192,284.5038)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-9"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-5"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-34"
+       transform="translate(1032.0247,219.27507)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-7"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-54"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-7"
+       transform="translate(1007.8243,169.86012)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-5"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-2"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-76"
+       transform="translate(1118.6035,462.95111)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-98"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-22"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-79"
+       transform="translate(1018.5952,387.14313)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-96"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-58"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-13"
+       transform="translate(979.33691,451.68781)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-2"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-8"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-2"
+       transform="translate(924.58908,366.03972)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-53"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-4"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-4"
+       transform="translate(844.97167,319.99591)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-3"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-6"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <g
+       id="g5558-9"
+       transform="translate(839.2162,578.99236)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path908-75"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1 c1 notDeletable" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path910-47"
+         data-link="1"
+         d="m 105.64122,93.493912 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_1" />
+    </g>
+    <path
+       class="link_1 c1 notDeletable"
+       d="m 242.23103,619.253 m -10.24314,0 a 10.24314,9.2936812 0 0 0 20.48628,0 10.24314,9.2936812 0 1 0 -20.48628,0"
+       data-link="1"
+       id="path908-32"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:19.5137291" />
+    <path
+       class="link_1"
+       d="m 242.83648,618.37048 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+       data-link="1"
+       id="path910-48"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2" />
+    <g
+       id="g4955-3-6"
+       transform="translate(548.74918,510.34307)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-70-3"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-0-2"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g4955-3-0"
+       transform="translate(426.73261,392.64426)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-70-39"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-0-0"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g4955-0-2"
+       transform="translate(1.7597333,526.76743)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:20"
+         inkscape:connector-curvature="0"
+         id="path834-7-0"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5 c5 notDeletable" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         id="path836-7-7"
+         data-link="5"
+         d="m 289.82424,120.60715 m -10,0 a 10,10 0 0 0 20,0 10,10 0 1 0 -20,0"
+         class="link_5" />
+    </g>
+    <g
+       id="g7127">
+      <g
+         transform="translate(-0.00443093,-74.752515)"
+         id="frame-layer">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5px;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 40,40 1404.0989,0 0,969.47 L 40,1009.47 40,40 Z"
+           id="svgContainer"
+           class="notDeletable" />
+      </g>
+    </g>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:4"
+     inkscape:connector-curvature="0"
+     id="path1010"
+     data-link="28"
+     d="m 127.4162,217.49925 -30.000003,0 z m -15,0 0,-30 z"
+     class="link_28" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.42442131px;line-height:125%;font-family:'Braille Français';-inkscape-font-specification:'Braille Français, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="490.68494"
+     y="135.81142"
+     id="text7281"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan7283"
+       x="490.68494"
+       y="135.81142">¨les conquêtes d.¨alexandre</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.42442131px;line-height:125%;font-family:'Braille Français';-inkscape-font-specification:'Braille Français, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="89.648346"
+     y="169.95232"
+     id="text7285"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan7287"
+       x="89.648346"
+       y="169.95232">¨n</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.42442131px;line-height:125%;font-family:Braille;-inkscape-font-specification:'Braille, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="79.021767"
+     y="917.24854"
+     id="text7289"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan7291"
+       x="79.021767"
+       y="917.24854">,%## m</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.42442131px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="100.98357"
+     y="133.26604"
+     id="text4768"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4770"
+       x="100.98357"
+       y="133.26604">N</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.89006805px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="500.7084"
+     y="94.219673"
+     id="text4728"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4730"
+       x="500.7084"
+       y="94.219673"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.89006805px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000">Les conquêtes d'Alexandre</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.42442131px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="92.198273"
+     y="968.63055"
+     id="text4768-1"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4770-7"
+       x="92.198273"
+       y="968.63055">300 km</tspan></text>
+  <g
+     transform="matrix(0.62041218,0,0,1,-655.6954,-26.357518)"
+     id="g4778">
+    <rect
+       y="955.58649"
+       x="1210.9463"
+       height="10.471626"
+       width="4.1232362"
+       id="rect4761"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99725169;stroke-opacity:1" />
+    <rect
+       y="962.08612"
+       x="1213.2642"
+       height="3.9719956"
+       width="130.71477"
+       id="rect4763"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <rect
+       y="955.40588"
+       x="1343.4373"
+       height="10.471627"
+       width="4.1232362"
+       id="rect4761-6"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99725169;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Interactions"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.99729037px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="title"
+       width="567.53131"
+       height="117.56212"
+       x="471.61487"
+       y="48.214153"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.38985741px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="nord"
+       width="67.123085"
+       height="120.16955"
+       x="76.493896"
+       y="106.94067"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.77121866px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="echelle"
+       width="136.77701"
+       height="95.776093"
+       x="68.680534"
+       y="883.52246"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="macedoine"
+       width="48.281963"
+       height="41.566006"
+       x="201.692"
+       y="320.15756"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-20"
+       width="48.281963"
+       height="41.566006"
+       x="103.42879"
+       y="340.26987"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="grece"
+       width="48.281963"
+       height="41.566006"
+       x="90.786743"
+       y="402.33087"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-01"
+       width="48.281963"
+       height="41.566006"
+       x="224.10292"
+       y="424.16708"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="libye"
+       width="48.281963"
+       height="41.566006"
+       x="72.398315"
+       y="645.97766"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="asie"
+       width="48.281963"
+       height="41.566006"
+       x="322.94077"
+       y="472.4368"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-21"
+       width="48.281963"
+       height="41.566006"
+       x="223.27927"
+       y="470.06805"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-06"
+       width="48.281963"
+       height="41.566006"
+       x="221.80437"
+       y="670.11249"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-23"
+       width="48.281963"
+       height="41.566006"
+       x="271.2233"
+       y="703.44147"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="egypte"
+       width="48.281963"
+       height="41.566006"
+       x="230.99858"
+       y="755.159"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="arab"
+       width="48.281963"
+       height="41.566006"
+       x="543.60199"
+       y="773.54742"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-22"
+       width="48.281963"
+       height="41.566006"
+       x="357.41907"
+       y="680.45599"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-03"
+       width="48.281963"
+       height="41.566006"
+       x="401.09164"
+       y="627.58917"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-02"
+       width="48.281963"
+       height="41.566006"
+       x="419.48004"
+       y="493.12378"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="meso"
+       width="48.281963"
+       height="41.566006"
+       x="558.54266"
+       y="589.66302"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="medie"
+       width="48.281963"
+       height="41.566006"
+       x="666.57465"
+       y="513.81073"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="armen"
+       width="48.281963"
+       height="41.566006"
+       x="617.15576"
+       y="454.04834"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-04"
+       width="48.281963"
+       height="41.566006"
+       x="584.97601"
+       y="514.96002"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-24"
+       width="48.281963"
+       height="41.566006"
+       x="604.51367"
+       y="634.4848"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-27"
+       width="48.281963"
+       height="41.566006"
+       x="695.30658"
+       y="567.82678"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="parth"
+       width="48.281963"
+       height="41.566006"
+       x="868.84753"
+       y="535.64703"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-10"
+       width="48.281963"
+       height="41.566006"
+       x="921.71423"
+       y="724.12848"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-09"
+       width="48.281963"
+       height="41.566006"
+       x="689.56018"
+       y="683.90381"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-25"
+       width="48.281963"
+       height="41.566006"
+       x="699.90375"
+       y="634.48486"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="perse"
+       width="48.281963"
+       height="41.566006"
+       x="760.81543"
+       y="648.27625"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-19"
+       width="48.281963"
+       height="41.566006"
+       x="928.60992"
+       y="467.83963"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-29"
+       width="48.281963"
+       height="41.566006"
+       x="1041.239"
+       y="354.06119"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-17"
+       width="48.281963"
+       height="41.566006"
+       x="992.96936"
+       y="431.06281"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-18"
+       width="48.281963"
+       height="41.566006"
+       x="1007.91"
+       y="513.81073"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-28"
+       width="48.281963"
+       height="41.566006"
+       x="1049.2841"
+       y="449.4512"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-15"
+       width="48.281963"
+       height="41.566006"
+       x="1092.9565"
+       y="317.28433"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-14"
+       width="48.281963"
+       height="41.566006"
+       x="1115.6381"
+       y="364.40469"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="bactri"
+       width="48.281963"
+       height="41.566006"
+       x="1140.0769"
+       y="411.52509"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-11"
+       width="48.281963"
+       height="41.566006"
+       x="1137.8021"
+       y="732.10327"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-12"
+       width="48.281963"
+       height="41.566006"
+       x="1200.9886"
+       y="611.49933"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-16"
+       width="48.281963"
+       height="41.566006"
+       x="1063.0753"
+       y="597.70795"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-13"
+       width="48.281963"
+       height="41.566006"
+       x="1099.8522"
+       y="541.39337"
+       inkscape:label="#rect4396" />
+    <rect
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="poi-30"
+       width="48.281963"
+       height="41.566006"
+       x="1126.2856"
+       y="495.4223"
+       inkscape:label="#rect4396" />
+  </g>
+  <rect
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="poi-05"
+     width="48.281963"
+     height="41.566006"
+     x="1196.3916"
+     y="473.58606"
+     inkscape:label="#rect4396" />
+  <rect
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="inde"
+     width="48.281963"
+     height="41.566006"
+     x="1305.8057"
+     y="654.37036"
+     inkscape:label="#rect4396" />
+  <rect
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69326407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="poi-26"
+     width="48.281963"
+     height="41.566006"
+     x="816.34644"
+     y="683.74707"
+     inkscape:label="#rect4396" />
+</svg>

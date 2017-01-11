@@ -1,0 +1,3 @@
+Les deux fichiers carte_villes.svg et carte_villes_montagnes.svg sont identiques,
+seul les affichages de calques changent afin d'exporter les images à afficher et à imprimer.
+

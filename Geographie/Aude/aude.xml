@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+	<filters>
+		<filter id="f0" name="Aucune interaction" expandable="false"/>
+		<filter id="f1" name="découverte générale" expandable="true"/>
+		<filter id="f2" name="villes" expandable="true"/>
+		<filter id="f3" name="visites" expandable="true"/>
+		<filter id="f4" name="sites historiques" expandable="true"/>
+		<filter id="f5" name="découverte sonore" expandable="true"/>
+	</filters>
+	<pois>
+		<poi id="title">
+			<actions>
+				<action filter="f1" value="Carte de l'Aude" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="Nord">
+			<actions>
+				<action filter="f1" value="Direction du Nord" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="VersToulouse">
+			<actions>
+				<action filter="f1" value="Vers Toulouse" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="AutresDepartements">
+			<actions>
+				<action filter="f1" value="Autres Départements" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="AutresDepartements2">
+			<actions>
+				<action filter="f1" value="Autres Départements" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="AutresDepartements3">
+			<actions>
+				<action filter="f1" value="Autres Départements" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="MerMediterranee">
+			<actions>
+				<action filter="f1" value="Mer Méditerranée" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+
+		<poi id="Carcassonne">
+			<actions>
+				<action filter="f2" value="Carcassonne" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="Lezignan-Corbieres">
+			<actions>
+				<action filter="f2" value="Lézignan-Corbières" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="Narbonne">
+			<actions>
+				<action filter="f2" value="Narbonne" protocol="tts" gesture="double_tap"/>
+				<action filter="f4" value="Cathédrale Saint Juste et Saint Pasteur, Palais des Archevêques" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="abbaye.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="Lagrasse">
+			<actions>
+				<action filter="f2" value="Lagrasse" protocol="tts" gesture="double_tap"/>
+				<action filter="f4" value="ChâteauDeVillerouge-Termenès" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="combat.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="LaBastide">
+			<actions>
+				<action filter="f2" value="LaBastide en val" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="Gruissan">
+			<actions>
+				<action filter="f2" value="Gruissan" protocol="tts" gesture="double_tap"/>
+			</actions>
+		</poi>
+
+		<poi id="EtangDeSigean">
+			<actions>
+				<action filter="f1" value="étang de Sigean" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="etang.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>		
+		<poi id="Etang2">
+			<actions>
+				<action filter="f1" value="étang de lapalme" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="etang.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="Etang3">
+			<actions>
+				<action filter="f1" value="étang de leucate" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="etang.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>
+
+		<poi id="AbbayeSaintHilaire">
+			<actions>
+				<action filter="f4" value="Abbaye de Saint-Hilaire" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="gregorien.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>
+
+		<poi id="Oulibo">
+			<actions>
+				<action filter="f3" value="loulibo" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="cigales.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="TerraVinea">
+			<actions>
+				<action filter="f3" value="musée de la vigne, Terra Vinea" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="champagne.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="MiellerieDesClauses">
+			<actions>
+				<action filter="f3" value="Miellerie Des Clauses" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="abeille.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>
+		<poi id="Homps">
+			<actions>
+				<action filter="f3" value="Croisière sur le canal du midi, au départ de ompsse" protocol="tts" gesture="double_tap"/>
+				<action filter="f5" value="ecluse.mp3" protocol="mp3" gesture="double_tap"/>
+			</actions>
+		</poi>
+
+	</pois>
+</config>

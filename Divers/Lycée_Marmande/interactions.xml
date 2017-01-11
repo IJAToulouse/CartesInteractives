@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<filters>
+		<filter id="f0" name="Informations générales" expandable="false"/>
+		<filter id="f1" name="Bâtiments" expandable="false"/>
+	</filters>
+	<pois>
+	<poi id="titre">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Lycée privé, Notre Dame de la Compassion. Marmande" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="nord">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Nord" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="entree">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Entrée du lycée" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="rue">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Rue de langeot" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="self">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Self" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="secretariat">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Secrétariat" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="salleattente">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Salle d'attente" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="cafet">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Cafétéria" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="classes">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Salle de classes" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="etudes">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Salle des devoirs surveillés" protocol="tts"/>
+		</actions>
+	</poi>		
+	<poi id="info">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Informatique" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="surveillants">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Bureau des surveillants" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="preau">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Préau" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="ulis">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Salle Ulysse" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="cdi">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="C, D, I." protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="art">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Salle Art Appliqué" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="conf">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Salle de conférence" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="gym">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Gymnase" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="wc">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Toilettes" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="wc2">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Toilettes" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="wc3">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Toilettes" protocol="tts"/>
+		</actions>
+	</poi>
+		<poi id="wc4">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Toilettes" protocol="tts"/>
+			</actions>
+		</poi>
+	<poi id="wc5">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Toilettes" protocol="tts"/>
+		</actions>
+	</poi>
+	</pois>
+</config>

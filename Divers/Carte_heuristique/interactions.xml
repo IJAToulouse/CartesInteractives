@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<filters>
+		<filter expandable="false" id="f0" name="Point de départ/Lecture du texte"/>
+		<filter expandable="false" id="f1" name="Point de départ/Où trouver ces informations"/>
+		<filter expandable="false" id="f2" name="Questions à poser à l'oeuvre/description"/>
+		<filter expandable="false" id="f3" name="Questions à poser à l'oeuvre/exemples"/>
+		<filter expandable="false" id="f4" name="Questions à poser au texte/description"/>
+		<filter expandable="false" id="f5" name="Questions à poser au texte/exemples"/>
+		<filter expandable="false" id="f6" name="Exemple d'application : La cigale et la fourmi"/>
+	</filters>
+	<pois>
+		<poi height="110" id="titre" width="680" x="403" y="15">
+			<actions>
+				<action filter="f0" gesture="double_tap" protocol="tts" value="Définition littéraire d'un texte"/>
+			</actions>
+		</poi>
+		<poi height="200" id="texte" width="300" x="662" y="436">
+			<actions>
+				<action filter="f0" gesture="double_tap" protocol="tts" value="déterminer le nom de l'auteur, de l'oeuvre, et la date d'apparition"/>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Ces informations se trouvent dans le paratexte"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="La cigale et la fourmi, par Jean de La Fontaine. Première fable du recueil intitulée, Fables. "/>
+			</actions>
+		</poi>
+		<poi height="100" id="courant" width="250" x="1174" y="192">
+			<actions>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="A quel courant littéraire appartient l'oeuvre ?"/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="réalisme"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Courant classicisme, 17ème siècle"/>
+			</actions>
+		</poi>
+		<poi height="60" id="genre" width="150" x="1178" y="788">
+			<actions>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="Quelle est le genre de l'oeuvre ?"/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="tragédie"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Genre : apologue"/>
+			</actions>
+		</poi>
+		<poi height="100" id="visée" width="350" x="634" y="238">
+			<actions>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="Quelle visée du texte ?"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="dénonciation"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="visée argumentative. Valorisation d’une vie d’artiste, dénonciation d’une vision bourgeoise de la vie."/>
+			</actions>
+		</poi>
+		<poi height="100" id="thème" width="200" x="255" y="237">
+			<actions>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="Quel thème ? De quoi parle le texte ?"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="De quoi parle le texte ?"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Thème relatif au conflit financier"/>
+			</actions>
+		</poi>
+		<poi height="150" id="registre" width="250" x="192" y="485">
+			<actions>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="Quel registre ?"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="lyrisme"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Registre satirique"/>
+			</actions>
+		</poi>
+		<poi height="100" id="situation" width="300" x="125" y="792">
+			<actions>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="Quelle situation d'énonciation ?"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="omenician"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="mise en scène, dialogue anthropomorphique"/>
+			</actions>
+		</poi>
+		<poi height="80" id="type" width="300" x="655" y="786">
+			<actions>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="Quel type de texte ?"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="descriptif"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Type de ce texte : narratif"/>
+			</actions>
+		</poi>
+	</pois>
+</config>

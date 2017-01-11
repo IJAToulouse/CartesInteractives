@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<filters>
+		<filter id="f0" name="Nom" expandable="false"/>
+		<filter id="f1" name="Nombre d'arête" expandable="false"/>
+		<filter id="f2" name="Nombre de sommet" expandable="false"/>
+	</filters>
+	<pois>
+	<poi id="Titre">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Les formes géométriques" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Carre">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Un carré" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="Le carré possède 4 arêtes" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="Le carré possède 4 sommets" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Cercle">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Un cercle" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="Le cercle ne possède pas d'arête" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="Le carré ne possède pas de sommet" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Trapeze1">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Un trapèze" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="Le trapèze possède 4 arêtes" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="Le trapèze possède 4 sommets" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Etoile">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Une étoile" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="L'étoile possède 10 arêtes" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="L'étoile possède 10 sommets" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Tore">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Un tore" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="Le tore ne possède pas d'arête" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="Le tore ne possède pas de sommet" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Lune">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Une lune" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="La lune ne possède pas d'arête" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="La lune ne possède pas de sommet" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Rectangle">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Un rectangle" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="Le rectangle possède 4 arêtes" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="Le rectangle possède 4 sommets" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Trapeze2">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Un trapèze" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="Le trapèze possède 4 arêtes" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="Le trapèze possède 4 sommets" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Triangle">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Un triangle" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="Le triangle possède 3 arêtes" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="Le triangle possède 3 sommets" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Ovale">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Un ovale" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="L'ovale ne possède pas d'arête" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="L'ovale ne possède pas de sommet" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="Losange">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Un losange" protocol="tts"/>
+			<action gesture="double_tap" filter="f1" value="Le losange ne possède pas d'arête" protocol="tts"/>
+			<action gesture="double_tap" filter="f2" value="Le losange ne possède pas de sommet" protocol="tts"/>
+		</actions>
+	</poi>
+	</pois>
+</config>

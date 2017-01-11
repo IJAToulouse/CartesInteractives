@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<filters>
+		<filter id="f0" name="Informations générales" expandable="false"/>
+		<filter id="f2" name="Pays frontaliers" expandable="false"/>
+		<filter id="f1" name="Territoires conquis par Alexandre" expandable="false"/>
+		<filter id="f3" name="Villes/batailles" expandable="false"/>
+		<filter id="f4" name="Villes/fondée par Alexandre" expandable="false"/>
+		<filter id="f5" name="Villes/villes" expandable="false"/>
+	</filters>
+	<pois>
+	<poi id="title">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Les conquêtes d'Alexandre" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="nord">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Nord" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="echelle">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="300 kilomètres" protocol="tts"/>
+		</actions>
+	</poi>	
+	<poi id="macedoine">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="La Macédoine, à l'avènement d'Alexandre en 336 avant Jésus-Christ" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="asie">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Asie mineure" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="grece">
+		<actions>
+			<action gesture="double_tap" filter="f1" value="Grèce" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi id="egypte">
+			<actions>
+			<action gesture="double_tap" filter="f1" value="Egypte" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="meso" >
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Mésopotamie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="armen">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Arménie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="medie">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Médie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="perse">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Perse" protocol="tts"/>
+			</actions>
+		</poi>		
+		<poi id="parth">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Parthie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="bactri">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Bactriane" protocol="tts"/>
+			</actions>
+		</poi>
+			<poi id="libye">
+		<actions>
+			<action gesture="double_tap" filter="f2" value="Libye" protocol="tts"/>
+		</actions>
+		</poi>
+		<poi id="arab">
+			<actions>
+				<action gesture="double_tap" filter="f2" value="Arabie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="inde">
+			<actions>
+				<action gesture="double_tap" filter="f2" value="Inde" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-01">
+			<actions>
+				<action gesture="double_tap" filter="f3" value="Granique. -334" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-02">
+			<actions>
+				<action gesture="double_tap" filter="f3" value="Issosse. -333" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-03">
+			<actions>
+				<action gesture="double_tap" filter="f3" value="Tyr. -332" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-04">
+			<actions>
+				<action gesture="double_tap" filter="f3" value="Ar-bèles. -331" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-05">
+			<actions>
+				<action gesture="double_tap" filter="f3" value="Aornos. -326" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-06">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-09">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-10">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-11">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-12">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-13">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-14">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-15">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-16">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie Kandahar" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-17">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie Mary" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-18">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandrie Herat" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-19">
+			<actions>
+				<action gesture="double_tap" filter="f4" value="Alexandropolis" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-20">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Pella. Départ d'Alexandre en -334" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-21">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Mi-lait" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-22">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Jérusalem" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-23">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Memphis" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-24">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Babylone. Mort d'Alexandre, -323" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-25">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Suse" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-26">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Persépolisse" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-27">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Eque-batane" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-28">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Bac-tresse" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-29">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Maracanda, Samarcande" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-30">
+			<actions>
+				<action gesture="double_tap" filter="f5" value="Cabura, Kaboul" protocol="tts"/>
+			</actions>
+		</poi>
+	</pois>
+</config>

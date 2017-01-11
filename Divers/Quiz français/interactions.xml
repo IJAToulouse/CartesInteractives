@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<filters>
+		<filter expandable="false" id="f0" name="Informations générales"/>
+		<filter expandable="false" id="f1" name="équipe1/questions"/>
+		<filter expandable="false" id="f2" name="équipe1/réponses"/>
+		<filter expandable="false" id="f3" name="équipe2/questions"/>
+		<filter expandable="false" id="f4" name="équipe2/réponses"/>
+		<filter expandable="false" id="f5" name="équipe3/questions"/>
+		<filter expandable="false" id="f6" name="équipe3/réponses"/>
+	</filters>
+	<pois>
+		<poi height="150" id="titre" width="200" x="1119" y="112">
+			<actions>
+				<action filter="f0" gesture="double_tap" protocol="tts" value="Quiz"/>
+			</actions>
+		</poi>
+		<poi height="170" id="question1" width="170" x="565" y="612">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Dans cette phrase relève le ou les adjectifs qualificatifs. J'ai acheté un joli tissu léger, souple et transparent. J'ai acheté un joli tissu léger, souple et transparent."/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="4 adjectifs qualificatifs : joli, souple, léger, et transparent."/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Dans la phrase suivante relève le ou les noms communs. Les poissons vivent dans un magnifique aquarium géant. Les poissons vivent dans un magnifique aquarium géant."/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="2 noms communs : poissons, et aquarium."/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="Quelle est la fonction du pronom personnel dans la phrase suivante : Ils mangent tous les jours à cantine. Ils mangent tous les jours à cantine."/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Le pronom personnel : ils, est le sujet du verbe manger "/>
+			</actions>
+		</poi>
+		<poi height="170" id="question2" width="170" x="348" y="777">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="L'art d'exprimer des sentiments par des gestes et des attitudes est. 1. Le pantographe, 2. La pantomime, 3. Le panthéisme"/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="2. La pantomime"/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Homophones : quelle différence de sens existe-il entre les 3 fois suivants. foi, F, O, i. Foie, F,O,i, e. Et, fois, F,O,I,S ? "/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="La foi, sans s ni e, c'est le fait de croire, d'avoir confiance. Foi est un nom féminin. Pourtant on l'écrit sans e final. Le foie, avec e final, c'est l'organe des êtres vivants qui est situé dans l'abdomen. Foie est un nom masculin. Pourtant on l'écrit avec un e final. Fois, avec un s final, signifie selon les contextes, occasion, cas, coup, reprise. Fois s'écrit toujours avec un s, même au singulier."/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="Homophones : quelle différence de sens existe-il entre les 2, différent, suivants : différend, qui se termine par un D, et différent, qui se termine par un T."/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Le nom commun différend avec un D, signifie conflit, désaccord.L'adjectif qualificatif différent avec un T l'adjectif est le contraire de semblable."/>
+			</actions>
+		</poi>
+		<poi height="170" id="question3" width="170" x="127" y="681">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Dans cette phrase, conjuguez au présent de l'indicatif puis épelez le verbe, aboyer : la chienne Aboyer pour défendre ses petits. La chienne Aboyer pour défendre ses petits."/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="Aboie, A,B,O,I,E"/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Énigme : je suis conjugué au présent et mon homonyme n'est pas mon ennemi, bien au contraire : vas-t'en ; elle court; vous faites; je suis."/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="faites. Présent de l'indicatif."/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="Dois-je écrire, nous ne sommes pas près de partir : P,R,ê,T,S, ou p, r, è, s ?"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Près de, plus infinitif signifie : être sur le point de. À ne pas confondre avec prêt à, qui signifie, préparé."/>
+			</actions>
+		</poi>
+		<poi height="170" id="question4" width="170" x="31" y="450">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Comment appelle-t-on une phrase sans verbe, construite autour d'un nom ? "/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="Une phrase nominal."/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Dans cette phrase, le mot interrogatif est-il un pronom ou un adverbe : Laquelle  sera élue ? Laquelle  sera élue ?"/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="Un pronom"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="Conjuguez puis épelez le verbe ESSAYER à l'impératif présent et à la deuxième personne du singulier."/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Essaie de te taire, E,S,S,A,I,E"/>
+			</actions>
+		</poi>
+		<poi height="170" id="question5" width="170" x="75" y="218">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Les adjectifs qualificatifs, beaux et laids,  sont-ils des synonymes, des paronymes, ou des homonymes ? "/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="Ce sont des antonymes : mots de sens contraire."/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Trouvez le synonyme de : prohiber parmi les mots suivants : arrêter, finir, interdire, ou partir."/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="interdire"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="Trouvez le synonyme du mot, épargne, parmi les mots suivants : radin, économie,  dépense, ou étang"/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="économie"/>
+			</actions>
+		</poi>
+		<poi height="170" id="question6" width="170" x="298" y="90">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Dans cette phrase quelle est la terminaison du participe passé, perdu : La partie perdue, les joueurs sont rentrés chez eux. La partie perdue, les joueurs sont rentrés chez eux."/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="perdue, U,E. Ce participe passé se comporte tel un adjectif, il s'accorde en genre et en nombre avec le nom féminin singulier, partie."/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Dans cette phrase quelle est l'orthographe du mot, ou : Ce jeu on l'aime ou on l'adore. Ce jeu on l'aime ou on l'adore."/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="O,U. La conjonction de coordination. Le où avec accent, indique le lieu."/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="À quel temps est conjugué le verbe dans la phrase : ils ont jeté les preuves. Ils ont jeté les preuves."/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Le verbe jeter est conjugué au passé composé, l'auxiliaire avoir est conjugué au présent de l'indicatif. "/>
+			</actions>
+		</poi>
+		<poi height="170" id="question7" width="170" x="524" y="132">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Dans cette phrase, le mot interrogatif est-il un pronom ou un adverbe : Quelle heure est-il ? Quelle heure est-il ? "/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="Un adverbe"/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Conjuguez puis épelez le verbe MANGER à l'impératif présent et à la deuxième personne du singulier."/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="Mange, M,A,N,G,E, en silence !"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="Dans un récit, quelle est la ponctuation qui introduit le discours direct."/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="Les guillemets"/>
+			</actions>
+		</poi>
+		<poi height="170" id="question8" width="170" x="738" y="289">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Ajoutez un préfixe au mot, sensée, S, E, N, S, É, E, de façon à former son contraire."/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="insensée. Préfixe in."/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Les adjectifs qualificatifs « distrait et discret » sont-ils des synonymes, des paronymes ou des antonymes ? "/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="ce sont des paronymes"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="Les adjectifs qualificatifs, distrait et discret, sont-ils des synonymes, des paronymes ou des antonymes ? "/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="préfixe, a. asocial."/>
+			</actions>
+		</poi>
+		<poi height="170" id="question9" width="170" x="946" y="398">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Énigme : je suis un verbe composé de 2 mots, je suis à la 2ème personne mais pas celle du singulier et je suis du 1er groupe. Qui suis-je ? J'ai fini, j'irai, ou vous avez déplacé ?"/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="vous avez déplacé. Passé composé."/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Dans cette phrase quelle est l'orthographe du mot, on : les randonneurs ont dormi comme des ours. Les randonneurs ont dormi comme des ours."/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="O,N,T. Il s'agit de l'auxiliaire avoir au présent de l'indicatif. Le verbe dormir est conjugué au passé composé."/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="Énigme : je suis un déplacement rapide, terminé, et composé. Qui suis-je ? J'ai fini, tu as couru, ou elle a voulu."/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="as couru. Passé composé."/>
+			</actions>
+		</poi>
+		<poi height="200" id="question10" width="200" x="1238" y="409">
+			<actions>
+				<action filter="f1" gesture="double_tap" protocol="tts" value="Les jours de la semaine font référence à une planète de notre système solaire, soit : Lundi pour la Lune, Mardi pour Mars, mercredi pour Mercure, jeudi pour Jupiter, vendredi pour Vénus, samedi pour Saturne et dimanche qui est le jour du Seigneur. On remarque que chaque jour de la semaine possède la syllabe, di, ajoutée à la racine du jour. Pourquoi ?"/>
+				<action filter="f2" gesture="double_tap" protocol="tts" value="Dies signifie jour en latin, ainsi nous pouvons traduire : jour de la Lune pour Lundi, jour de Mars pour Mardi, etc."/>
+				<action filter="f3" gesture="double_tap" protocol="tts" value="Quel être marche à 4 pattes le matin, à 2 le midi et à 3 le soir ? 1. Le chien, 2. L'alcoolique, 3. L'homme, 4. E.T."/>
+				<action filter="f4" gesture="double_tap" protocol="tts" value="L'homme"/>
+				<action filter="f5" gesture="double_tap" protocol="tts" value="Que collectionne un conchyophile ? 1. Les capsules des bouteilles de vin, 2. Les coquillages, 3. Les boîtes d'allumettes, 4. Les documents secrets d'un état."/>
+				<action filter="f6" gesture="double_tap" protocol="tts" value="2. Les coquillages"/>
+			</actions>
+		</poi>
+	</pois>
+</config>

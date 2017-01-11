@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+<filters>
+<filter id="f0" name="Aucune interaction" expandable="false"/>
+<filter id="f1" name="villes" expandable="true"/>
+<filter id="f2" name="Localisation des villes" expandable="true"/>
+<filter id="f3" name="Odorat" expandable="true"/>
+<filter id="f4" name="Gout" expandable="true"/>
+<filter id="f5" name="Toucher" expandable="true"/>
+<filter id="f6" name="Vue" expandable="true"/>
+<filter id="f7" name="Ouïe" expandable="true"/>
+<filter id="f8" name="Extraits de langues régionales" expandable="false"/>
+<filter id="f9" name="Extraits musique régionales" expandable="false"/>
+<filter id="f11" name="Mers et océans" expandable="true"/>
+</filters>
+<pois>
+<poi id="title" name="f0#tts#Carte de France"/>
+<poi id="city001" name="f1#tts#Lille
+;f2#tts#Nord
+;f3#tts#chicoré, bière et charbon
+;f4#tts#betterave, hareng, maroilles et tarte-au-sucre
+;f5#tts#pomme de terre et minerai
+;f6#tts#beffroi, ports de Calais et Dunkerque, Champ de betteraves et de céréales, Cimetière trente neuf quarante cinq
+;f7#tts#picard ou schti et flamand français
+;f8#mp3#ext_picard.mp3
+;f9#mp3#musique_picard.mp3"/> <!-- https://www.youtube.com/watch?v=z-mt6N4ijrs AMUSEON le clip Bal Picard - Pipasso cornemuse picarde -->
+
+<poi id="city002" name="f1#tts#Strasbourg
+;f2#tts#Nord-est
+;f3#tts#Schnaps et mirabelle
+;f4#tts#biscuits alsaciens de Noël et bretzel
+;f5#tts#
+;f6#tts#cigognes, marché de Noël, Bécassine, drapeau européen, cimetière 14 18
+;f7#tts# alsacien
+;f8#mp3#ext_alsacien.mp3
+;f9#mp3#music_alsace.mp3"/> <!--https://www.youtube.com/watch?v=OQulkoU8suI  -->
+
+<poi id="city003" name="f1#tts#Nice
+;f2#tts#Sud-est
+;f3#tts#fleurs, parfums et Herbes de Provence : laurier, romarin et lavande.
+;f4#tts#olives et citron
+;f5#tts#
+;f6#tts#Ville, promenade des Anglais et Carnaval de Nice
+;f7#tts#provençal
+;f8#mp3#ext_provençal.mp3
+;f9#mp3#music_provencal.mp3"/> <!-- https://www.youtube.com/watch?v=-d9nhMTWUWM Lei Farandoulaire Sestian Aix-en-Provence -->
+
+<poi id="city004" name="f1#tts#Perpignan
+;f2#tts#Sud;f3#tts#Vin de Rivezalte
+;f4#tts#anchois, crème catalane et zézette de Sète
+;f5#tts#abricot
+;f6#tts#ville et château des rois de Mayorque
+;f7#tts#catalan
+;f8#mp3#ext_catalan.mp3
+;f9#mp3#music_catalan.mp3"/> <!-- https://www.youtube.com/watch?v=30tBfpS43Ys&list=PLEBEE95F3AAF75C71 Rumba Catalana - Arany Zoltan y Perro Negro - Flamenco Guitar Barcelona -->
+
+<poi id="city005" name="f1#tts#Bayonne
+;f2#tts#Sud-ouest
+;f3#tts#piment et laine
+;f4#tts#Jambon ou saucisson, fromage de brebis, confiture de cerise et truite fumée.
+;f5#tts#espadrilles, linge basque, pelote basque et béret basque. Planque de sur et combinaison.
+;f6#tts#porc basque, Biarritz et maisons basques
+;f7#tts#basque
+;f8#mp3#ext_basque.mp3
+;f9#mp3#music_basque.mp3"/> <!-- https://www.youtube.com/watch?v=hHmUp-XEuoA Reprise de cet hymne à la liberté, l'une des plus célèbres chansons du répertoire basque. Extrait du concert événement, Plaza Gizon, août 2008 à Salies de Béarn (64)-->
+
+<poi id="city006" name="f1#tts#Brest
+;f2#tts#Nord-ouest
+;f3#tts#chou fleur et parfum iodé
+;f4#tts#lait ribot, beurre salé, caramel au beurre salé, Galette de pont-aven
+;f5#tts#accordéon diatonique, coquillages, algues, sable, granit rose
+;f6#tts#chapeau et coiffe bretonne, bateau Charles de gaulle et biniou
+;f7#tts#breton, accordéon diatonique
+;f8#mp3#ext_breton.mp3
+;f9#mp3#music_breton.mp3"/> <!--https://www.youtube.com/watch?v=WKc1dMC79MI Dar Ar Braz, call to the dance -->
+
+<poi id="city007" name="f1#tts#Toulouse
+;f2#tts#Sud-ouest
+;f4#tts#foie gras
+;f6#tts#Le Capitole, le canal du midi, Cassoulet
+;f7#tts#occitan
+;f8#mp3#ext_occitan.mp3
+;f9#mp3#music_toulouse.mp3"/><!--https://www.youtube.com/watch?v=0aBk54wMqjA Claude Nougaro, Toulouse -->
+
+<poi id="city008" name="f1#tts#Paris
+;f2#tts#Nord
+;f6#tts#Tour Eiffel
+;f9#mp3#music_paris.mp3"/> <!-- https://www.youtube.com/watch?v=4E6sEetFfg0 Paris sera toujours Paris Maurice Chevalier-->
+
+<poi id="sea001" name="f11#tts#Manche"/>
+
+<poi id="sea002" name="f11#tts#Océan Atlantique"/>
+
+<poi id="sea003" name="f11#tts#Mer Meditéranée"/>
+
+
+
+
+</pois>
+</config>
+

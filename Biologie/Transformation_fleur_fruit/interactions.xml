@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<filters>
+		<filter id="f0" name="Nom" expandable="false"/>
+		<filter id="f1" name="Description" expandable="false"/>
+	</filters>
+	<pois>
+	<poi height ="100" id="title" width="1100" x="230" y="43">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="La transformation de la fleur de ceurisier en cerise" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi height ="100" id="coupefleur" width="350" x="299" y="898">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="coupe de la fleur" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi height ="100" id="coupefruit" width="300" x="1041" y="896">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="coupe du fruit" protocol="tts"/>
+		</actions>
+	</poi>
+		<poi id="poi-9" x="464.0078125" y="825.82421875" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Le pédoncule est une tige qui tient ici la fleur" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="pédoncule" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-3" x="293.8515625" y="708.0234375" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Les sépales sont de petites feuilles qui entourent la fleur" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="sépale" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-4" x="656.6015625" y="710.828125" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Les sépales sont de petites feuilles qui entourent la fleur" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="sépale" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-1" x="281.6953125" y="583.6796875" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="les pétales permettent d'attirer les insectes qui transportent le pollen d'une fleur à l'autre" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="pétale" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-2" x="643.51171875" y="582.7421875" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="les pétales permettent d'attirer les insectes qui transportent le pollen d'une fleur à l'autre" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="pétale" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-020" x="184" y="351" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="les étamines contiennent du pollen" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="étamine" protocol="tts"/>
+			</actions>
+		</poi>		
+		<poi id="poi-20" x="345" y="291.046875" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="les étamines contiennent du pollen" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="étamine" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-19" x="575.26171875" y="293.8515625" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="les étamines contiennent du pollen" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="étamine" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-019" x="720" y="368" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="les étamines contiennent du pollen" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="étamine" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-15" x="461.203125" y="268.609375" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="En présence du pollen, le pistil donne le fruit" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="pistil" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-22" x="464.0078125" y="648.1875" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="les ovules donnent les graines contenues dans le fruit" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="ovules" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-21" x="1066.09765625" y="462.13671875" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="Le fruit provient de la transformation du pistil" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="fruit" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-10" x="1104.4296875" y="571.5234375" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="partie centrale dure du fruit, qui protège la graine" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="noyau" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-14" x="1165.19921875" y="564.04296875" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="les graines sont contenues dans le fruit" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="graine" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-8" x="1166.13671875" y="823.01953125" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="tige qui tient ici le fruit" protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="pédoncule" protocol="tts"/>
+			</actions>
+		</poi>
+	</pois>
+</config>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<filters>
+		<filter id="f0" name="Nom" expandable="false"/>
+		<filter id="f1" name="Description" expandable="false"/>
+	</filters>
+	<pois>
+	<poi height ="140" id="title" width="1100" x="276" y="18">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="Schéma d'une dent saine, et d'une dent cariée" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi height ="100" id="dentsaine" width="350" x="322" y="928">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="dent saine" protocol="tts"/>
+		</actions>
+	</poi>
+	<poi height ="100" id="dentcarie" width="300" x="1000" y="926">
+		<actions>
+			<action gesture="double_tap" filter="f0" value="dent cariée" protocol="tts"/>
+		</actions>
+	</poi>
+		<poi id="poi-9" x="616" y="758" width="50" height="50">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="L'os de la machoire entoure et maintient la dent." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="os de la machoire" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-3" x="250" y="754" width="50" height="50">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="L'os de la machoire entoure et maintient la dent." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="os de la machoire" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-4" x="63" y="637" width="50" height="50">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="La racine permet de tenir la dent." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="racine" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-1" x="584" y="422" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="La gencive protège la base des dents." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="gencive" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-2" x="324" y="424" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="La gencive protège la base des dents." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="gencive" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-020" x="997" y="426" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="La gencive protège la base des dents." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="gencive" protocol="tts"/>
+			</actions>
+		</poi>		
+		<poi id="poi-20" x="1243" y="427" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="La gencive protège la base des dents." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="gencive" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-19" x="451" y="388" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="La partie vivante de la dent est constitué de nerfs, et de vaisseaux sanguins." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="partie vivante de la dent" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-019" x="1114" y="390" width="50" height="50">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="La partie vivante de la dent est constitué de nerfs, et de vaisseaux sanguins." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="partie vivante de la dent" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-15" x="459" y="289" width="50" height="50">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="L'ivoire est ce qui constitue en majorité la dent." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="ivoire" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-22" x="1166" y="287" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="L'ivoire est ce qui constitue en majorité la dent." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="ivoire" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-21" x="450" y="224" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="L'émail est une couche dure et protectrice de la dent." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="émail" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-10" x="1186" y="234" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="L'émail est une couche dure et protectrice de la dent." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="émail" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-14" x="197" y="299" width="50" height="50">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="La couronne est la partie de la dent qui est hors de la gencive." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="couronne" protocol="tts"/>
+			</actions>
+		</poi>
+		<poi id="poi-8" x="1066" y="275" width="40" height="40">
+			<actions>
+				<action gesture="double_tap" filter="f1" value="La carie est un trou causé par des bactéries dans une dent." protocol="tts"/>
+				<action gesture="double_tap" filter="f0" value="carie" protocol="tts"/>
+			</actions>
+		</poi>
+	</pois>
+</config>
